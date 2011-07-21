@@ -1,2 +1,2 @@
 #!/bin/bash
-phpunit --colors --stop-on-failure $@ UnitTests.php
+phpunit --colors --stop-on-failure --verbose --group $@ UnitTests.php
