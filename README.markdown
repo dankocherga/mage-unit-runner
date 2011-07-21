@@ -15,3 +15,4 @@ And it will do the following:
 
         phpunit --colors --stop-on-failure --group My_Module UnitTests.php
 
+This repo is the repo of ANGRY and EVIL.
