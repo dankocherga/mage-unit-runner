@@ -1,7 +1,7 @@
 Mage-unit runner
 =======
 
-This script will simplify running Magento unit tests written in [EcomDev_PHPUnit framework](https://github.com/IvanChepurnyi/EcomDev_PHPUnit EcomDev_PHPUnit)
+This script will simplify running Magento unit tests written in [EcomDev_PHPUnit framework](https://github.com/IvanChepurnyi/EcomDev_PHPUnit)
 
 Executing the script without arguments will do:
 
